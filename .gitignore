@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+indusmind_env/
+
+# Trained model files
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+
+# Local virtual environment
+venv/
